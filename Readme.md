@@ -62,8 +62,8 @@ uv --version
 ## 4. Clonar el repositorio
 
 ```powershell
-git clone https://github.com/smartinezca10/proyecto_iadbd.git
-cd proyecto_iadbd
+git clone https://github.com/smartinezca10/proyecto_final_IABD.git
+cd proyecto_final_IABD
 ```
 
 ---
